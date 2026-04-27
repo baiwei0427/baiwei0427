@@ -9,7 +9,7 @@ AI networking at hyperscale.
 ## Links
 
 - 🌐 [Personal website](https://baiwei0427.github.io)
-- 📄 [Google Scholar](https://scholar.google.com/citations?user=UDqJSXoAAAAJ)
+- 📄 [Google Scholar](https://scholar.google.com/citations?user=2zjLkpcAAAAJ)
 
 ---
 
