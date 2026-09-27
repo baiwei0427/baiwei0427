@@ -1,10 +1,10 @@
 # Hi, I'm Wei 👋
 
-I'm a Member of Technical Staff at [Microsoft SuperIntelligence (MSI)](https://microsoft.ai/news/towards-humanist-superintelligence/), where I work on networking for large-scale AI clusters. Previously, I was a Principal Software Research Architect at NVIDIA and a Senior Researcher at Microsoft Research.
+I'm a Member of Technical Staff at [Microsoft AI](https://microsoft.ai/news/towards-humanist-superintelligence/), working on networking for large-scale AI clusters.
 
-## What I work on
+I build RDMA and AI networking systems that have to work reliably at very large scale.
 
-AI networking at hyperscale.
+Previously, I worked at NVIDIA and Microsoft Research. One representative project: bringing RDMA into production at cloud scale, described in our NSDI '23 paper, [Empowering Azure Storage with RDMA](https://www.usenix.org/conference/nsdi23/presentation/bai).
 
 ## Links
 
